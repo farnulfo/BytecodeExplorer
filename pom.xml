@@ -10,7 +10,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <code.level>1.8</code.level>
-        <version.plugin.compiler>3.1</version.plugin.compiler>
+        <version.plugin.compiler>3.8.1</version.plugin.compiler>
     </properties>
     <build>
         <plugins>
